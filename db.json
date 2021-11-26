@@ -1,1 +1,9 @@
-
+{
+    "course": [
+        {
+            "id": 1,
+            "name": "kien thuc",
+            "description": "Kien thuc basic for newbie"
+        }
+    ]
+}

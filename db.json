@@ -1,36 +1,34 @@
 {
-    "htr": [
-        {
-            "id": 1,
-            "name": "player1",
-            "description": "MC"
-            "valua": "1000"
-        },
-        {
-            "id": 2,
-            "name": "player2",
-            "description": "MC"
-            "valua": "1000"
-        },
-        {
-            "id": 3,
-            "name": "player3",
-            "description": "MC"
-            "valua": "1000"
-        },
-        {
-            "id": 4,
-            "name": "player4",
-            "description": "MC"
-            "valua": "1000"
-        },
-        {
-            "id": 5,
-            "name": "player5",
-            "description": "MC"
-            "valua": "1000"
-        }
-         
-        
-    ]
+   "htr": [
+            {
+                "id": 1,
+                "name": "player1",
+                "description": "MC",
+                "valua": "1000"
+            },
+            {
+                "id": 2,
+                "name": "player2",
+                "description": "MC",
+                "valua": "1000"
+            },
+            {
+                "id": 3,
+                "name": "player3",
+                "description": "MC",
+                "valua": "1000"
+            },
+            {
+                "id": 4,
+                "name": "player4",
+                "description": "MC",
+                "valua": "1000"
+            },
+            {
+                "id": 5,
+                "name": "player5",
+                "description": "MC",
+                "valua": "1000"
+            }      
+        ]
 }

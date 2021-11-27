@@ -1,29 +1,36 @@
 {
-    "course": [
+    "htr": [
         {
             "id": 1,
-            "name": "kien thuc",
-            "description": "Kien thuc basic for newbie"
+            "name": "player1",
+            "description": "MC"
+            "valua": "1000"
         },
-         {
+        {
             "id": 2,
-            "name": "kien thuc",
-            "description": "Kien thuc basic for newbie"
+            "name": "player2",
+            "description": "MC"
+            "valua": "1000"
         },
- {
+        {
             "id": 3,
-            "name": "kien thuc",
-            "description": "Kien thuc basic for newbie"
+            "name": "player3",
+            "description": "MC"
+            "valua": "1000"
         },
- {
+        {
             "id": 4,
-            "name": "kien thuc",
-            "description": "Kien thuc basic for newbie"
+            "name": "player4",
+            "description": "MC"
+            "valua": "1000"
         },
- {
+        {
             "id": 5,
-            "name": "kien thuc",
-            "description": "Kien thuc basic for newbie"
-        }
+            "name": "player5",
+            "description": "MC"
+            "valua": "1000"
+        },
+         
+        
     ]
 }
